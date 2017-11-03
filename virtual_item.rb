@@ -1,0 +1,7 @@
+class VirtualItem < Item
+
+
+
+end
+
+
